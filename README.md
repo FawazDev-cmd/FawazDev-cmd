@@ -4,7 +4,7 @@
 
 I build machine learning, applied AI, and backend systems with a focus on reliable implementation, evaluation, and clear engineering.
 
-[Portfolio](https://fawazdev-cmd.github.io/) · [X](https://x.com/korexxxxxx)
+[Portfolio](https://portfolio.korexdev.workers.dev/) · [X](https://x.com/korexxxxxx)
 
 ## Selected Work
 
@@ -46,4 +46,4 @@ My earlier work in client success, sales, and marketing within AI-focused startu
 ## Contact
 
 **Email:** fawazsobowale.dev@gmail.com  
-**Portfolio:** https://fawazdev-cmd.github.io/
+**Portfolio:** https://portfolio.korexdev.workers.dev/
