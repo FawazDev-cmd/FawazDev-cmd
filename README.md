@@ -1,54 +1,60 @@
 # Fawaz Sobowale
 
-**AI/ML Engineer · Applied AI and Python backend systems**
+**AI/ML Engineer · Applied AI & Python Backend**
 
-I am an early-career engineer based in Lagos, Nigeria. I build retrieval systems, ML inference APIs, and AI workflows with an emphasis on validation, persistence, testing, and clear failure behaviour.
+I build document intelligence, machine learning APIs, and AI workflow automation. My work connects models to usable software through retrieval, validation, persistence, testing, and deployment.
 
-[Portfolio](https://fawazdev-cmd.github.io/) · [Email](mailto:fawazsobowale.dev@gmail.com) · [Secondary email](mailto:fawazsobo.developer@gmail.com) · [X](https://x.com/korexxxxxx)
+[Portfolio](https://fawazdev-cmd.github.io/) · [Try LoreForge](https://loreforge-jade.vercel.app/) · [Get in touch](mailto:fawazsobowale.dev@gmail.com)
 
 ## Selected work
 
-### LoreForge — document intelligence and RAG
+### LoreForge — answers you can trace to the source
 
-Hybrid semantic and BM25 retrieval with Reciprocal Rank Fusion, reranking, citation validation, and owner-scoped queries. Python, FastAPI, PostgreSQL, React, Docker, and CI.
+A document intelligence application for querying private PDFs with source citations. Combines semantic search and BM25 with Reciprocal Rank Fusion, reranking, citation validation, owner-scoped queries, and a React interface.
 
-[Repository and architecture](https://github.com/FawazDev-cmd/loreforge) · [Recorded demo](https://youtu.be/3K6DPf49Cp4)
+[Live application](https://loreforge-jade.vercel.app/) · [Source & architecture](https://github.com/FawazDev-cmd/loreforge) · [Video walkthrough](https://youtu.be/3K6DPf49Cp4)
 
-### Fraud Detection API — classical ML inference
+Demo access: `loreforge-demo-2026`
 
-A scikit-learn logistic regression pipeline served through FastAPI. Validates transaction features and model probabilities, loads the model at startup, and applies a configurable decision threshold. Includes API tests, Docker packaging, and GitHub Actions.
+### Fraud Detection API — a trained model behind a validated API
 
-[Repository and API examples](https://github.com/FawazDev-cmd/Fraud-Detection-API)
+A scikit-learn logistic regression pipeline served through FastAPI. Features startup model loading, validated transaction inputs, probability checks, a configurable decision threshold, automated tests, and Docker packaging.
 
-### SentinelStream — event processing and incident detection
+[API examples & source](https://github.com/FawazDev-cmd/Fraud-Detection-API)
 
-Structured log ingestion through a bounded asynchronous queue, deterministic anomaly rules, atomic event-and-finding persistence, stable incident identities, and keyset-paginated reads. A Streamlit interface consumes the REST API. The queue is in-process and non-durable; this is a single-process portfolio MVP.
+### SentinelStream — from application logs to explainable incidents
 
-[Repository and architecture](https://github.com/FawazDev-cmd/sentinelstream) · [Recorded demo](https://youtu.be/AFZiWXwH5mg)
+An asynchronous log-processing system with deterministic anomaly detection, transactional persistence, stable incident identities, and keyset-paginated APIs. A Streamlit dashboard makes logs, findings, and incidents reviewable.
 
-### Community Intelligence Agent — Slack AI workflow
+[Source & architecture](https://github.com/FawazDev-cmd/sentinelstream) · [Video walkthrough](https://youtu.be/AFZiWXwH5mg)
 
-Slack events trigger public research, Gemini analysis, output validation, PostgreSQL persistence, and a private-channel report. Evidence and model inference are separated, possible identity matches are labelled, and every result requires human review. The README documents the tutorial baseline and my extensions.
+### Community Intelligence Agent — structured research inside Slack
 
-[Repository and implementation](https://github.com/FawazDev-cmd/community-intelligence-agent) · [Recorded demo](https://youtu.be/hVzIMP2UxzA)
+An event-driven AI workflow that turns public member research into structured onboarding reports. Connects Slack, Gemini, output validation, and PostgreSQL, while keeping evidence and inference distinct for human review.
 
-## Engineering focus
+[Source & implementation](https://github.com/FawazDev-cmd/community-intelligence-agent) · [Video walkthrough](https://youtu.be/hVzIMP2UxzA)
 
-| Area | Work demonstrated in the portfolio |
+## Engineering toolkit
+
+| Focus | Tools and techniques |
 | --- | --- |
-| Applied AI | RAG, hybrid retrieval, reranking, citations, structured LLM outputs |
-| Machine learning | scikit-learn inference pipelines, probability validation, decision thresholds |
-| Backend systems | Python, FastAPI, Node.js, PostgreSQL, asynchronous processing |
-| Delivery and quality | pytest, Node tests, Ruff, mypy, Docker, GitHub Actions |
+| Applied AI | RAG, hybrid retrieval, reranking, citation validation, structured LLM outputs |
+| Machine learning | Python, pandas, scikit-learn pipelines, inference APIs, decision thresholds |
+| Backend systems | FastAPI, Node.js, PostgreSQL, asynchronous processing |
+| Quality and delivery | pytest, Node tests, Ruff, mypy, Docker, GitHub Actions |
 
-My broader training covers machine learning, statistics, deep learning, NLP, and computer vision through Computer Science at Caleb University and AI/ML training at APTECH. Degree results and professional certification are pending.
+Repositories document setup, architecture, evaluation methods, and the current scope of each project.
 
-## Background and opportunities
+## Product and business perspective
 
-Experience in client success, sales, and marketing at AI-focused startups helps me connect engineering decisions to users and business outcomes.
+Experience in client success, sales, and marketing at Paal AI and Gambit Markets gives me a practical understanding of customer needs, product adoption, and communicating technical value. I bring that perspective to the software I build.
 
-I am interested in paid junior and internship opportunities in applied AI, AI automation, and Python backend engineering that accept applicants based in Nigeria.
+My Computer Science studies at Caleb University and AI/ML training at APTECH cover statistics, machine learning, deep learning, NLP, and computer vision. Degree results and professional certification are pending.
 
-**Primary email:** [fawazsobowale.dev@gmail.com](mailto:fawazsobowale.dev@gmail.com)
+## Let's connect
 
-**Secondary email:** [fawazsobo.developer@gmail.com](mailto:fawazsobo.developer@gmail.com)
+Open to AI/ML engineering, applied AI, and Python backend roles, plus collaborations with teams building useful software. Based in Lagos, Nigeria; available for remote collaboration.
+
+**Email:** [fawazsobowale.dev@gmail.com](mailto:fawazsobowale.dev@gmail.com)  
+**Secondary email:** [fawazsobo.developer@gmail.com](mailto:fawazsobo.developer@gmail.com)  
+**Elsewhere:** [Portfolio](https://fawazdev-cmd.github.io/) · [X](https://x.com/korexxxxxx)
