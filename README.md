@@ -4,7 +4,7 @@
 
 I am an early-career engineer based in Lagos, Nigeria. I build retrieval systems, ML inference APIs, and AI workflows with an emphasis on validation, persistence, testing, and clear failure behaviour.
 
-[Portfolio](https://portfolio.korexdev.workers.dev/) · [Email](mailto:fawazsobowale.dev@gmail.com) · [X](https://x.com/korexxxxxx)
+[Portfolio](https://fawazdev-cmd.github.io/) · [Email](mailto:fawazsobowale.dev@gmail.com) · [Secondary email](mailto:fawazsobo.developer@gmail.com) · [X](https://x.com/korexxxxxx)
 
 ## Selected work
 
@@ -49,4 +49,6 @@ Experience in client success, sales, and marketing at AI-focused startups helps 
 
 I am interested in paid junior and internship opportunities in applied AI, AI automation, and Python backend engineering that accept applicants based in Nigeria.
 
-**Contact:** fawazsobowale.dev@gmail.com
+**Primary email:** [fawazsobowale.dev@gmail.com](mailto:fawazsobowale.dev@gmail.com)
+
+**Secondary email:** [fawazsobo.developer@gmail.com](mailto:fawazsobo.developer@gmail.com)
